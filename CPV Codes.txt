@@ -1,0 +1,104 @@
+CPV Code
+UKD
+32420000 - Netzausrüstung
+64228000 - Dienstleistungen des Übertragens von Fernseh- und Hörfunksendungen
+72318000 - Datenübertragung
+92200000 - Dienstleistungen in Verbindung mit Rundfunk- und Fernsehprogrammen
+MDR
+64212000-5
+Polizei NRW
+64200000-8 
+64210000-1 
+64215000-6 
+32250000-0 
+64212000-5 
+31712112-8
+32551100-1 
+Max Plank
+30200000
+
+LVR Rheinland
+64212000-5
+64211000-8
+64214000-9
+
+Lotto Sachsen
+30237240 Webkamera 
+32260000 Datenübertragungsanlagen 
+32270000 Digitale Übertragungsgeräte 
+32323500 Video-Überwachungssystem 
+32400000 Netzwerke 
+32412000 Kommunikationsnetz 
+32413100 Router für Netzwerke 
+32416000 ISDN-Netz 
+32420000 Netzausrüstung 
+32422000 Netzkomponenten 
+32424000 Netzwerkinfrastruktur 
+32428000 Netzwerkaufrüstung 
+72000000 IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung 
+72100000 Hardwareberatung 
+72110000 Beratung bei der Hardwareauswahl 
+
+Lotto Berlin Brandenburg
+32400000-7
+72318000-7
+32415000-5
+72315000-6
+
+Lotto Bayern
+64216110
+64212500
+64212700
+
+Landeshauptstadt Düsseldorf
+32412100-5
+
+Land Rheinland Pfalz
+64000000
+
+Land NRW
+72720000-3
+72720000-7
+
+KFW
+32250000
+64212000
+
+GEWOBAG
+72300000
+72315000
+32413100
+32420000
+32421000
+
+Fraport
+64210000
+64212000
+64212700
+64211000
+
+ecotel
+64216200-5
+
+DWD
+64216200-5
+
+Deutsches Forschungsnetz
+64000000
+
+Deutsche Bahn
+64210000
+32412000
+64211000
+
+BMI
+64212000-5
+
+AÖA RLP
+64216000
+
+ARD
+64212000-5
+
+AOK
+64210000
